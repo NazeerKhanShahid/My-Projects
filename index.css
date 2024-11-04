@@ -25,11 +25,9 @@ header{
 }
 
 .nav_bar {
-    display: flex; 
-    min-width: 500px;
+       display: flex;
+    min-width: fit-content;
     justify-content: space-evenly;
-
-    
 
 }
 
